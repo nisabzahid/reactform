@@ -8,8 +8,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, run the development server:
-
+need node version 19^
 ```bash
+npm install
+#then
 npm run dev
 # or
 yarn dev
