@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
-![Alt text]([./public/reactform.jpg?raw=true "Title"](https://github.com/nisabzahid/reactform/blob/main/public/reactform.png))
+![Alt text]([(https://github.com/nisabzahid/reactform/blob/main/public/reactform.png)])
 ## Getting Started
 
 First, run the development server:
